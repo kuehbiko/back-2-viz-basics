@@ -6,11 +6,11 @@ For Week 4 of 2026, we would like you to explore the Shape card.
 
 **Data:** The 2026 Winter Olympics in Milano-Cortina have just come to an end! This week’s dataset contains the final medal standings for the participating nations. Your task is to use the Shape card to represent the data, whether you are categorizing by country or by medal type. Our data fields are:
 
-**Country:** The name of the country
-**NOC:** Three-letter country code
-**Gold:** Number of gold medals won
-**Silver:** Number of silver medals won
-**Bronze:** Number of bronze medals won
+**Country:** The name of the country \
+**NOC:** Three-letter country code \
+**Gold:** Number of gold medals won \
+**Silver:** Number of silver medals won \
+**Bronze:** Number of bronze medals won \
 **Total:** The overall medal count
 
 **For those newer to #B2VB:** Focus on the basics of assigning shapes. Try changing your mark type to Shape and dragging a dimension onto the Shape shelf. Experiment with the default shape palettes in Tableau to see how different symbols can represent your data points clearly.
@@ -19,8 +19,8 @@ For Week 4 of 2026, we would like you to explore the Shape card.
 
 Take your time over the next week to create your chart. Share it on the Tableau Community Slack page or on LinkedIn, X, or Bluesky using the hashtag #B2VB and tag our Back 2 Viz Basics Pages:
 
-[LinkedIn](https://www.linkedin.com/company/back-2-viz-basics/)
-[X (Twitter)](https://x.com/back2vizbasics)
+[LinkedIn](https://www.linkedin.com/company/back-2-viz-basics/) \
+[X (Twitter)](https://x.com/back2vizbasics) \
 Don’t forget to track your progress and view other submissions by filling out the submission form on the Back 2 Viz Basic's website.
 
 Good luck!
